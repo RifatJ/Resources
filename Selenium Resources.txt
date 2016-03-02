@@ -2,3 +2,9 @@
 Most commonly used methods in selenium Java
 http://www.abodeqa.com/2013/09/18/webdrivers-most-popular-commands/
 
+###############################
+## C# Related reources
+###############################
+
+Execute Automation Site
+http://executeautomation.com/blog/
